@@ -113,20 +113,17 @@ endmodule
 
 ## Logic symbol & Truthtable:
 
-![1](https://user-images.githubusercontent.com/93427534/231402533-a5b2db29-17bf-40f9-aefe-52f88b8935aa.png)
+![out1](https://user-images.githubusercontent.com/93427534/233102807-fa601b43-54f4-48aa-91e1-171697c41deb.png)
 
 ## RTL realization:
 
 ### RTL:
 
-![de1](https://user-images.githubusercontent.com/93427534/231402130-3741f04e-718b-45f4-b5c9-4c231dad0afb.png)
-
+![out2](https://user-images.githubusercontent.com/93427534/233102816-457ba625-5a3d-483b-8c20-bdf7394b94c1.png)
 
 ## Waveform:
 
-
-![Screenshot 2023-04-12 142501](https://user-images.githubusercontent.com/93427534/231406446-26d75af0-29fc-4f29-a98d-d61cae86eeb2.png)
-
+![out3](https://user-images.githubusercontent.com/93427534/233102844-df0716d4-53c5-4de9-8586-aa11fd7e6e20.png)
 
 ## Result:
 
